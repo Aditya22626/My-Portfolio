@@ -1,5 +1,5 @@
 import { HOME_CONTENT } from "../constants";
-import ProjectImage from "../Project/ProjectImage.jpeg";
+import ProjectImage from "../assets/images/ProjectImage.jpeg";
 import { motion } from "framer-motion";
 import { FaArrowRight } from "react-icons/fa";
 

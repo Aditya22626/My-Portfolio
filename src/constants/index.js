@@ -1,5 +1,5 @@
-import Chat from "../Project/Chat.png";
-import ProjectImage2 from "../Project/ProjectImage2.jpg";
+import Chat from "../assets/images/Chat.png";
+import ProjectImage2 from "../assets/images/ProjectImage2.jpg";
 
 
 export const HOME_CONTENT = `I'm a Full Stack Developer with expertise in Python, Java, C++, React.js, Node.js, and databases like MYSQL and MongoDB. I build scalable, high-performance web applications using cutting-edge frameworks and AI-driven solutions. My focus is developing intelligent, data-driven applications that anticipate future digital landscapes. Let's build something amazing together!`;

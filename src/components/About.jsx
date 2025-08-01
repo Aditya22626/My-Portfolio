@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import ProjectProfile from "../Project/ProjectProfile.png";
+import ProjectProfile from "../assets/images/ProjectProfile.png";
 import { ABOUT_TEXT } from '../constants';
 import { FaCode, FaServer, FaDatabase, FaRobot } from "react-icons/fa";
 
