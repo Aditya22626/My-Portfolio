@@ -1,5 +1,5 @@
 import { HOME_CONTENT } from "../constants";
-import ProjectImage from "../assets/images/ProjectImage.jpeg";
+import Portfolio from "../assets/images/Portfolio.jpeg";
 import { motion } from "framer-motion";
 import { FaArrowRight } from "react-icons/fa";
 
@@ -98,7 +98,7 @@ export default function Home() {
           >
             <div className="absolute -inset-0.5 bg-gradient-to-r from-pink-500 to-indigo-500 rounded-2xl blur opacity-30 animate-pulse"></div>
             <img
-              src={ProjectImage}
+              src={Portfolio}
               alt="Aditya Kaushik"
               className="relative rounded-2xl shadow-2xl w-full max-w-md object-cover z-10 border border-neutral-800/50"
             />
